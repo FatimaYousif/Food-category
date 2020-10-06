@@ -1,0 +1,22 @@
+.container {
+  /* background-color: blue; */
+  margin-top: 10%;
+}
+.card-title {
+  color: black;
+  background-color: white;
+  font-size: xx-large;
+  margin-top: 30%;
+  border-radius: 0.5em;
+}
+/* .imgZoom {
+  overflow: hidden;
+  height: 100%;
+  background-color: aquamarine;
+}
+.imgZoom img {
+  transition: all 1.5s ease;
+}
+.imgZoom:hover img {
+  transform: scale(1.5);
+} */
